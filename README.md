@@ -15,5 +15,6 @@ WTP dersi için html ve js kullanarak hazırlamaya çalıştığım oyun
 
 3-NASIL YAPILDI ?
 -Oyunun yapımında https://www.youtube.com/watch?v=rRQHyzgYAqM bu videodaki bilgilerden ve kodlardan faydalandım.
+-Oyunun yapımında sadece HTML ve JavaScript dillerini kullandım.
 -Renkleri kendi zevkime göre seçtim. Seçerken kullanıcı ile bilgisayar renklerinin birbirine benzememesine özen gösterdim.
 -Arkaplanın tasarımının futbol sahası gibi olması için çizgileri özenle çizdim.
