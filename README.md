@@ -12,6 +12,7 @@ WTP dersi için html ve js kullanarak hazırlamaya çalıştığım oyun
 -Ekranın orta üst kısmında "Skor Tablosu" bulunmaktadır.
 -Oyunumuzun bir skor sınırlaması yoktur.Kullanıcılarımız istediği zaman kapatabilir ya da yeniden başlatabilir. Size karışan bir bilgisayar yoktur. Kısaca sınırsız eğlence diyebiliriz.
 -Ekranın sol tarafı kullanıcaya ait çubuk ve skor bilgisi içerirken ekranın sağ tarafı bilgisayara ait çubuk ve skor bilgisi içerir.
+-Oyun siz hareket etmeden başlamaz.Oyunun başlaması için mouse ile hareket etmeniz gerekmektedir.
 
 3-NASIL YAPILDI ?
 -Oyunun yapımında https://www.youtube.com/watch?v=rRQHyzgYAqM bu videodaki bilgilerden ve kodlardan faydalandım.
